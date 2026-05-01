@@ -48,5 +48,3 @@ netlify deploy --prod --dir=taskflow
 
 All data is stored in `localStorage` — perfect for Netlify static hosting. Data persists across sessions in the same browser.
 
-## 📁 File Structure
-
