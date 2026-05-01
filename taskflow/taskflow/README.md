@@ -4,7 +4,7 @@ A full-featured team task management web app with role-based access control, pro
 
 ## 🚀 Live Demo
 
-Deploy this folder to Netlify and it's immediately live — no server required.
+https://69f45574ecde977a03c439ed--tranquil-starlight-1935ed.netlify.app/
 
 ## 🔑 Demo Accounts
 
